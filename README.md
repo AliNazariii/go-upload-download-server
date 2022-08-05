@@ -2,11 +2,11 @@
 
 # Introduction
 
-Use net/http package and concurrency in golang to implement a simple http server.
-First, You are to write a program that reading from the specific file and writing into
+Used net/http package and concurrency in golang to implement a simple http server.
+First, Wrote a program that reading from the specific file and writing into
 another file concurrently.
-Then, You should implement an api to get file or send file to the user.
-REST APIs that you should implement are listed below:
+Then, Implemented an api to get file or send file to the user.
+REST APIs that implemented are listed below:
 
 ## `localhost:8080/uploadFile`
     
